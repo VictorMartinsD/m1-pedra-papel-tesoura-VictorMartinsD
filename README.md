@@ -1,5 +1,10 @@
 # ✂️ M1 - Pedra, Papel e Tesoura (Rock, Paper, Scissors)
 
+## 🔗 Deploy do Projeto
+
+Confira a aplicação em execução através do link abaixo:
+👉 [Jogar Pedra, Papel e Tesoura](https://victormartinsd.github.io/m1-pedra-papel-tesoura-VictorMartinsD/)
+
 ## 📸 Preview
 
 <p align="center">
@@ -46,6 +51,11 @@ O núcleo do jogo foi construído através da função em `script.js`:
 ---
 
 # 🇺🇸 M1 - Rock, Paper, Scissors
+
+## 🔗 Project Deploy
+
+You can check out the application in action at the link below:
+👉 [Play Rock, Paper, Scissors](https://victormartinsd.github.io/m1-pedra-papel-tesoura-VictorMartinsD/)
 
 ## ✨ About the Project
 
